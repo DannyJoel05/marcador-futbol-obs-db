@@ -1,0 +1,6 @@
+D:\GITHUB\PUBLICO\marcador-futbol-obs-db\Marcador Futbol DB\Negocio\bin\Debug\Negocio.dll
+D:\GITHUB\PUBLICO\marcador-futbol-obs-db\Marcador Futbol DB\Negocio\bin\Debug\Negocio.pdb
+D:\GITHUB\PUBLICO\marcador-futbol-obs-db\Marcador Futbol DB\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\GITHUB\PUBLICO\marcador-futbol-obs-db\Marcador Futbol DB\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\GITHUB\PUBLICO\marcador-futbol-obs-db\Marcador Futbol DB\Negocio\obj\Debug\Negocio.dll
+D:\GITHUB\PUBLICO\marcador-futbol-obs-db\Marcador Futbol DB\Negocio\obj\Debug\Negocio.pdb
